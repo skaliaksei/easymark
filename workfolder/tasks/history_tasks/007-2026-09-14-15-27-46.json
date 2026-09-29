@@ -1,0 +1,19 @@
+{
+  "gtin": "04810389004096",
+  "name": "Хрен «Васаби» острый",
+  "createdAt": "2026-09-13T18:14:25Z",
+  "finishedAt": "2026-09-13T18:17:43Z",
+  "production_date": "2026-09-13",
+  "expiration_date": "2027-03-13",
+  "task_number": "007",
+  "task_type": "agr",
+  "items_per_box": "3",
+  "boxes_per_pallet": "2",
+  "box_template": "",
+  "pallet_template": "",
+  "camera_ip": "127.0.0.1",
+  "camera_port": "2002",
+  "printer_name": "TE200",
+  "printer_ip": "172.16.16.10",
+  "printer_port": "9100"
+}

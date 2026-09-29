@@ -1,0 +1,19 @@
+{
+  "gtin": "04810389004126",
+  "name": "Горчица столовая",
+  "createdAt": "2026-09-09T19:26:10Z",
+  "finishedAt": "2026-09-09T19:30:20Z",
+  "production_date": "2026-09-09",
+  "expiration_date": "2027-03-09",
+  "task_number": "006",
+  "task_type": "agr",
+  "items_per_box": "5",
+  "boxes_per_pallet": "2",
+  "box_template": "C:/files/template_files/Template_box.prn",
+  "pallet_template": "C:/files/template_files/Template_pallet.prn",
+  "camera_ip": "127.0.0.1",
+  "camera_port": "2002",
+  "printer_name": "TE210",
+  "printer_ip": "172.16.16.10",
+  "printer_port": "9100"
+}

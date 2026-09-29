@@ -1,0 +1,13 @@
+{
+  "gtin": "04810389004119",
+  "name": "Горчица русская",
+  "createdAt": "2026-09-09T08:29:57Z",
+  "finishedAt": "2026-09-09T08:30:02Z",
+  "task_number": "003",
+  "task_type": "ser",
+  "camera_ip": "127.0.0.1",
+  "camera_port": "2002",
+  "printer_name": "TE200",
+  "printer_ip": "172.16.16.10",
+  "printer_port": "9100"
+}

@@ -1,0 +1,22 @@
+{
+  "createdAt": "2026-09-09T08:52:37Z",
+  "finishedAt": "2026-09-09T08:58:13Z",
+  "gtin": "04810389004195",
+  "production_date": "none",
+  "expiration_date": "none",
+  "task_number": "005",
+  "task_type": "gser",
+  "name": "Аджика пикантная",
+  "units": {
+    "products": [
+      "0104810389004195212AheyoxMMLjGb\u001d93m&UN",
+      "0104810389004195212FX6baCmpLVSW\u001d93ISk6",
+      "0104810389004195212bv6YFqkLCWmr\u001d93t+iS",
+      "0104810389004195212hq2ZgUcFn4np\u001d93CEBp",
+      "0104810389004195212iayUThaA1GHq\u001d936wOW",
+      "0104810389004195212rMezBVmF6xET\u001d93No*o",
+      "0104810389004195212ysXzudWYAyb1\u001d933jGT",
+      "0104810389004195212zYCQHjGc9DQA\u001d938yt>"
+    ]
+  }
+}

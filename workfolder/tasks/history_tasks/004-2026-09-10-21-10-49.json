@@ -1,0 +1,14 @@
+{
+  "gtin": "04810389004195",
+  "name": "Аджика пикантная",
+  "createdAt": "2026-09-09T08:40:47Z",
+  "finishedAt": "2026-09-09T08:50:59Z",
+  "task_number": "004",
+  "task_type": "gser",
+  "items_per_box": "4",
+  "camera_ip": "127.0.0.1",
+  "camera_port": "2002",
+  "printer_name": "TE200",
+  "printer_ip": "172.16.16.10",
+  "printer_port": "9100"
+}

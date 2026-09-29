@@ -1,0 +1,20 @@
+{
+  "gtin": "04810389004065",
+  "name": "Хрен столовый острый",
+  "createdAt": "2026-09-17T11:51:32Z",
+  "finishedAt": "2026-09-17T11:56:52Z",
+  "production_date": "2026-09-17",
+  "expiration_date": "2027-03-17",
+  "task_number": "011",
+  "task_type": "agr",
+  "items_per_box": "4",
+  "boxes_per_pallet": "2",
+  "box_template": "D:\\PYTHON_Projects\\EasyMark\\EasyMark-GROUP\\workfolder\\templates\\Template_box.prn",
+  "pallet_template": "D:\\PYTHON_Projects\\EasyMark\\EasyMark-GROUP\\workfolder\\templates\\Template_pallet.prn",
+  "camera_ip": "127.0.0.1",
+  "camera_port": "2002",
+  "printer_name": "TE210",
+  "printer_ip": "172.16.16.10",
+  "printer_port": "9100",
+  "print_with_driver": "true"
+}

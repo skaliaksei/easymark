@@ -1,0 +1,20 @@
+{
+  "gtin": "04810281002701",
+  "name": "Тестовый продукт",
+  "createdAt": "2026-09-28T06:40:37Z",
+  "finishedAt": "2026-09-28T07:10:36Z",
+  "production_date": "2026-09-28",
+  "expiration_date": "2027-03-28",
+  "task_number": "012",
+  "task_type": "agr",
+  "items_per_box": "2",
+  "boxes_per_pallet": "2",
+  "box_template": "C:/files/template_files/Template_box.prn",
+  "pallet_template": "C:/files/template_files/Template_pallet.prn",
+  "camera_ip": "127.0.0.1",
+  "camera_port": "2002",
+  "printer_name": "TE200",
+  "printer_ip": "172.16.16.10",
+  "printer_port": "9100",
+  "print_with_driver": "true"
+}

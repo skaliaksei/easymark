@@ -1,0 +1,14 @@
+{
+  "createdAt": "2026-09-28T06:40:37Z",
+  "finishedAt": "2026-09-28T07:10:36Z",
+  "gtin": "04810281002701",
+  "production_date": "2026-09-28",
+  "expiration_date": "2027-03-28",
+  "task_number": "012",
+  "task_type": "agr",
+  "name": "Тестовый продукт",
+  "units": {
+    "boxes": [],
+    "pallets": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "createdAt": "2026-09-14T17:09:29Z",
+  "finishedAt": "2026-09-14T19:16:11Z",
+  "gtin": "04810389004096",
+  "production_date": "2026-09-14",
+  "expiration_date": "2027-03-14",
+  "task_number": "008",
+  "task_type": "agr",
+  "name": "Хрен «Васаби» острый",
+  "units": {
+    "boxes": [],
+    "pallets": []
+  }
+}

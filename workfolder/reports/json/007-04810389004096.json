@@ -1,0 +1,53 @@
+{
+  "createdAt": "2026-09-13T18:14:25Z",
+  "finishedAt": "2026-09-13T18:17:43Z",
+  "gtin": "04810389004096",
+  "production_date": "2026-09-13",
+  "expiration_date": "2027-03-13",
+  "task_number": "007",
+  "task_type": "agr",
+  "name": "Хрен «Васаби» острый",
+  "units": {
+    "boxes": [
+      {
+        "name": "01048103890040961126091310007\u001d373\u001d211",
+        "products": [
+          "0104810389004096215kErE'mtbiXa<\u001d91FFD0\u001d92dGVzdOPMBtXaV7gOUA11S0nOlUoHC8ue40/49KnVrV0=",
+          "0104810389004096215C9BIkZnRQeI1\u001d91FFD0\u001d92dGVzdC7kUA94DdTCG5znwDbyDpTNba2nIuiV63lymGk=",
+          "0104810389004096215Q>O&kXDgGU%B\u001d91FFD0\u001d92dGVzdHXH5Og07JCqJTm6Bcxx0qTNizcxyHEphWOwdpQ="
+        ]
+      },
+      {
+        "name": "01048103890040961126091310007\u001d373\u001d212",
+        "products": [
+          "0104810389004096215TBzHAwYzKPEN\u001d91FFD0\u001d92dGVzdHQ3tALbw97gYBSUMuYg2tu/lE8FvOOxH6gObS4=",
+          "0104810389004096215tC=k;sED'go7\u001d91FFD0\u001d92dGVzdNCA3dlVYifTuJQJZCgcISYuPVjldVTXskqzVkg=",
+          "0104810389004096215R/G!;HIg_oeT\u001d91FFD0\u001d92dGVzdPK/v2uejxiD6KxW2V2MuWiicIOOkaa/5NE5kZU="
+        ]
+      },
+      {
+        "name": "01048103890040961126091310007\u001d373\u001d213",
+        "products": [
+          "0104810389004096215hlCRLiH_<l(G\u001d91FFD0\u001d92dGVzdBJCJIzczLuOx6nbyP24F6wnj9N4YlellBDvAxU=",
+          "0104810389004096215BBNZ)O-VHtVN\u001d91FFD0\u001d92dGVzdE5j62FjnnhqRiMI5OG2++LPKSWJ3h4fXhUIf4g=",
+          "0104810389004096215E.mU0cT/-9Ce\u001d91FFD0\u001d92dGVzdMzrE3pKeFOZq6YoMynwf62Q9r5i7IDPFvIXS58="
+        ]
+      }
+    ],
+    "pallets": [
+      {
+        "name": "0104810389004096112609131727031310007\u001d302\u001d211",
+        "boxes": [
+          "01048103890040961126091310007\u001d373\u001d211",
+          "01048103890040961126091310007\u001d373\u001d212"
+        ]
+      },
+      {
+        "name": "0104810389004096112609131727031310007\u001d302\u001d212",
+        "boxes": [
+          "01048103890040961126091310007\u001d373\u001d213"
+        ]
+      }
+    ]
+  }
+}

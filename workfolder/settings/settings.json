@@ -1,0 +1,7 @@
+{
+  "camera_ip": "172.16.16.8",
+  "camera_port": "2002",
+  "printer_name": "TE200",
+  "printer_ip": "172.16.16.10",
+  "printer_port": "9100"
+}

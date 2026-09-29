@@ -1,0 +1,4 @@
+{
+  "boxes": "01<gtin>11<production_date>17<expiration_date>10<task_number>\u001d37<items_per_box>\u001d21<serial_number>",
+  "pallets": "01<gtin>11<production_date>17<expiration_date>10<task_number>\u001d30<boxes_per_pallet>\u001d21<serial_number>"
+}

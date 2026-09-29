@@ -1,0 +1,8 @@
+{
+  "gtin": "04810389004065",
+  "itf-14": "14810389004062",
+  "name": "Хрен столовый острый",
+  "fullname": "Хрен ORA СТОЛОВЫЙ ОСТРЫЙ в стеклянной банке твист-офф",
+  "box_template": "D:\\PYTHON_Projects\\EasyMark\\EasyMark-GROUP\\workfolder\\templates\\Template_box.prn",
+  "pallet_template": "D:\\PYTHON_Projects\\EasyMark\\EasyMark-GROUP\\workfolder\\templates\\Template_pallet.prn"
+}
